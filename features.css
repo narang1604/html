@@ -1,0 +1,22 @@
+body{ background-image: url("n3.jpg");}
+.title{
+margin: 20 50px;
+}
+.image{
+    margin:40 130px;
+}
+.content1{
+    font-family: cursive;
+    margin: -270 380px;;
+}
+.image1{
+    margin: -350 130px;
+   
+}
+.title1{
+    margin: 370 50px;
+}
+.content2{
+     font-family: cursive;
+    margin: 50 420px;
+}

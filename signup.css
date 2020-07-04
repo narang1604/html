@@ -1,0 +1,67 @@
+body{ background-image: url("n3.jpg");}
+.boxeds {
+     width: 800px;
+    height: 400px;
+    padding: 10px;
+    border: 1px;
+    margin: 80 250px; 
+}
+#sign {
+     width: 350px;
+    float: left;
+    padding: 20px;
+    margin-left:90px;
+    margin-top:-20px;
+}
+#sign h3{
+    margin-left: -80px;
+}
+
+.text1{
+    margin-left: 50px;
+   width: 150px;
+    height: 30px;
+}
+.text2{
+    margin-left: 240px;
+   margin-top: -30px;
+   width: 150px;
+    height: 30px;
+}
+.text3{
+    margin-top: -20px;
+    margin-left: 95px;
+     width: 295px;
+    height: 30px;
+}
+.passw{
+     margin-top: -20px;
+    margin-left: 95px;
+     width: 295px;
+    height: 30px;
+}
+.mobileno{
+   margin-top: -20px;
+    margin-left: 95px;
+     width: 295px;
+    height: 30px;
+}
+.submitt{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+    color: #fff;
+    background: blue;
+    margin-left:95px;
+}
+.logi {
+    margin-top: -29px;
+     margin-left:175px;
+}
+.logi a {
+      text-decoration: none;
+    color: blue;
+}
+

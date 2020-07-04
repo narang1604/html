@@ -1,0 +1,59 @@
+body{ background-image: url("n3.jpg");}
+.boxed {
+     width: 600px;
+    height: 320px;
+    padding: 10px;
+    border: 0px;
+    margin: 80 250px; 
+}
+#containe {
+     width: 650px;
+    float: left;
+    padding: 20px;
+    margin-left:50px;
+    margin-top: -20px;
+    
+}
+.text {
+    width: 400px;
+    height: 50px;
+    background: #fff;
+    border-radius: 10px;
+    float:left;
+    padding-left: 15px;
+}
+.password {
+    width: 400px;
+    height: 50px;
+    background: #fff;
+    border-radius: 10px;
+    float:left;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+#forgot {
+    margin-top: 130px;
+}
+#forgot a{
+     text-decoration: none;
+    font-family: arial;
+}
+.submit {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+    color: #fff;
+    background: blue;
+    margin-left:10px;
+}
+.signup {
+    margin-top: -28px;
+     margin-left:175px;
+}
+.signup a {
+      text-decoration: none;
+    color: blue;
+}
+
